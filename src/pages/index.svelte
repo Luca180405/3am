@@ -15,4 +15,7 @@
             <li class="ml-20"><a href="#" style="padding: 6px 15px;" class="rounded-2xl"></a>Test</li>
         </ul>
     </header>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7126133699569454"
+     crossorigin="anonymous"></script>
+    
 </bo>
